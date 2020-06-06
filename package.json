@@ -4,7 +4,7 @@
   "main": "index.ts",
   "license": "MIT",
   "dependencies": {
-    "apollo-server-express": "^2.4.2",
+    "apollo-server-express": "^2.14.2",
     "class-validator": "^0.9.1",
     "express": "^4.16.4",
     "graphql": "^14.1.1",
